@@ -7,3 +7,6 @@
 [submodule "desafio-front-end-react"]
 	path = desafio-front-end-react
 	url = https://github.com/torneseumprogramador/desafio-front-end-react.git
+[submodule "angular-desafio-front-end"]
+	path = angular-desafio-front-end
+	url = https://github.com/torneseumprogramador/angular-desafio-front-end.git
