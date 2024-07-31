@@ -16,3 +16,6 @@
 [submodule "svelte_desafio_front-end"]
 	path = svelte_desafio_front-end
 	url = https://github.com/torneseumprogramador/svelte_desafio_front-end.git
+[submodule "next-desafio-front-end"]
+	path = next-desafio-front-end
+	url = https://github.com/torneseumprogramador/next-desafio-front-end.git
