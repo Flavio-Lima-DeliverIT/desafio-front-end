@@ -10,3 +10,6 @@
 [submodule "angular-desafio-front-end"]
 	path = angular-desafio-front-end
 	url = https://github.com/torneseumprogramador/angular-desafio-front-end.git
+[submodule "ecommerce-desafio-php-cake"]
+	path = ecommerce-desafio-php-cake
+	url = https://github.com/torneseumprogramador/ecommerce-desafio-php-cake.git
