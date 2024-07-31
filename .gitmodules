@@ -13,3 +13,6 @@
 [submodule "ecommerce-desafio-php-cake"]
 	path = ecommerce-desafio-php-cake
 	url = https://github.com/torneseumprogramador/ecommerce-desafio-php-cake.git
+[submodule "svelte_desafio_front-end"]
+	path = svelte_desafio_front-end
+	url = https://github.com/torneseumprogramador/svelte_desafio_front-end.git
