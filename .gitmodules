@@ -4,3 +4,6 @@
 [submodule "desafio-front-end-base-react-com-yam-sass-typescript"]
 	path = desafio-front-end-base-react-com-yam-sass-typescript
 	url = https://github.com/torneseumprogramador/desafio-front-base-react-com-yarn-sass-typescript.git
+[submodule "desafio-front-end-react"]
+	path = desafio-front-end-react
+	url = https://github.com/torneseumprogramador/desafio-front-end-react.git
